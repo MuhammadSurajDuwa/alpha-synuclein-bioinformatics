@@ -23,5 +23,6 @@ NCBI GenBank
 BLAST (NCBI)
 
 Author
+Muhammad Suraj
 Medical student (5th year)
 Bayero University Kano
